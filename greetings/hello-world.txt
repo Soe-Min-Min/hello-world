@@ -1,1 +1,2 @@
 Hello from Docker!
+Hello World app is running!
